@@ -1,0 +1,5 @@
+{{#user}}
+Name: PASUPULA SATWIK
+Skills: HTML, CSS, JS, Django , SQL.
+Email: pasupula5419@gmail.com
+{{/user}}
